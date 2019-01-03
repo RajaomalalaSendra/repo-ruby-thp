@@ -9,7 +9,7 @@ age_two = age
 
 if age <= 2018
   for i in age...default do
-    puts ("Votre age en #{ age_two } est #{ age_two - age } ans.")
+    puts ("#{ age_two }")
     age_two += 1
   end
 else
