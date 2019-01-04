@@ -1,9 +1,8 @@
 # Exercice de Ruby 
 - exo 1 => Pour Afficher Bonjour monde :earth_africa:
-- exo 2 => 
+- exo 2 => Pour afficher:
 
-Bonjour, monde !
-
+Bonjour, monde !\
 Et avec une voix sexy, ça donne : Bonjour, monde :octocat:
 - exo 3 => Commentaire
 - exo 4 => Afficher erreur :cry: :cry: :cry:
@@ -19,6 +18,7 @@ puts user_name
 ```
 - exo 8 => Entrez nom et afficher nom
 - exo 9 => Entrez nom et prénom et etc ....
+
 Cela va continuer jusqu'au exo 20 et pyramide
 
 :computer: :computer: :computer: :hearts: :hearts: :diamonds: :gem: :gem: :gem:
