@@ -21,4 +21,6 @@ puts user_name
 
 Cela va continuer jusqu'au exo 20 et pyramide
 
+- [Ici le lien vers le pyramide.md](https://github.com/RajaomalalaSendra/repo-ruby-thp/blob/master/vendredi/pyramide.rb)
+
 :computer: :computer: :computer: :hearts: :hearts: :diamonds: :gem: :gem: :gem:
