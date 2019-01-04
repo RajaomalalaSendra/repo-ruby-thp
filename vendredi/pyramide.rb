@@ -8,10 +8,14 @@ space = " "
 number_two = number
 
 # Notre pyramide ascendente en ruby
+if ( number > 0 && number < 26)
 puts("Voici la pyramide:")
-number.times do
- count += 1
- number_two -= 1
- pyramid = space * number_two + "#" * count
- puts pyramid
+    number.times do
+    count += 1
+    number_two -= 1
+    pyramid = space * number_two + "#" * count
+    puts pyramid
+    end
+else
+    puts("Veuillez entrer un nombre entre 1 et 25.")
 end
